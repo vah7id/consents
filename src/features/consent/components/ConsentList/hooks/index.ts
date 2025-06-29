@@ -1,0 +1,1 @@
+export { useConsentList } from './useConsentList'; 

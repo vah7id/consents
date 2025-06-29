@@ -1,0 +1,1 @@
+export { useConsents, useAddConsent } from './useConsents'; 
