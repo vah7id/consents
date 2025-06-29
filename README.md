@@ -47,18 +47,6 @@ npm run build
 npm test
 ```
 
-**Run tests in watch mode:**
-
-```bash
-npm run test:watch
-```
-
-**Run tests with coverage:**
-
-```bash
-npm run test:coverage
-```
-
 ## 🏗️ Application Structure
 
 ```
